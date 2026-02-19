@@ -1,10 +1,14 @@
 export const profile = {
 	fullName: 'Francesco Pinotti',
-	title: 'Dr.',
+	title: 'Postdoc',
 	institute: 'INRAE, VetAgro Sup, UMR EPIA, Université de Lyon, Marcy l’Etoile, France',
 	author_name: 'Francesco Pinotti', // Author name to be highlighted in the papers section
 	research_areas: [
-		{ title: 'Infectious disease modelling', description: 'Mathematical modelling of infectious disease transmission in human and animal populations', field: 'mathematics' },
+		{ title: 'Infectious disease modelling', description: 'Mathematical modelling of infectious disease transmission in human and animal populations.', field: 'computer-science' },
+		{ title: 'Avian influenza virus', description: 'Characterising the transmission dynamics of avian influenza virus in poultry production and distribution networks.', field: 'biology' },
+		{ title: 'Phylodynamics', description: 'Understanding pathogen transmission from genetic data.', field: 'computer-science' },
+		{ title: 'Simulation-based inference', description: 'Leveraging classical and deep-learning-powered methods to perform inference with complex models.', field: 'computer-science' },
+
 	],
 }
 
