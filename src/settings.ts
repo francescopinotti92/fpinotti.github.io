@@ -1,6 +1,6 @@
 export const profile = {
 	fullName: 'Francesco Pinotti',
-	title: 'Postdoc',
+	title: 'Postdoctoral researcher',
 	institute: 'INRAE, VetAgro Sup, UMR EPIA, Université de Lyon, Marcy l’Etoile, France',
 	author_name: 'Francesco Pinotti', // Author name to be highlighted in the papers section
 	research_areas: [
@@ -8,7 +8,6 @@ export const profile = {
 		{ title: 'Avian influenza virus', description: 'Characterising the transmission dynamics of avian influenza virus in poultry production and distribution networks.', field: 'biology' },
 		{ title: 'Phylodynamics', description: 'Understanding pathogen transmission from genetic data.', field: 'computer-science' },
 		{ title: 'Simulation-based inference', description: 'Leveraging classical and deep-learning-powered methods to perform inference with complex models.', field: 'computer-science' },
-
 	],
 }
 
