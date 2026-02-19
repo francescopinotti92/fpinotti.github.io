@@ -1,10 +1,10 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
-	author_name: '', // Author name to be highlighted in the papers section
+	fullName: 'Francesco Pinotti',
+	title: 'Dr.',
+	institute: 'INRAE, VetAgro Sup, UMR EPIA, Université de Lyon, Marcy l’Etoile, France',
+	author_name: 'Francesco Pinotti', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{ title: 'Infectious disease modelling', description: 'Mathematical modelling of infectious disease transmission in human and animal populations', field: 'mathematics' },
 	],
 }
 
@@ -12,11 +12,11 @@ export const profile = {
 export const social = {
 	email: '',
 	linkedin: '',
-	x: 'https://www.x.com/',
+	x: 'https://www.x.com/@fpinotti92',
 	bluesky: '',
-	github: '',
+	github: 'https://github.com/francescopinotti92',
 	gitlab: '',
-	scholar: '',
+	scholar: 'https://scholar.google.com/citations?user=k6BhD0QAAAAJ&hl=it',
 	inspire: '',
 	arxiv: '',
 	orcid: '',

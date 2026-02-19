@@ -17,19 +17,34 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
-		description: '',
+		school: 'Sorbonne University & INSERM,',
+		time: '2016-2019',
+		degree: 'PhD',
+		location: 'Paris, France',
+		description: 'PhD in epidemiology and public health',
 	},
-	// {
-	// 	school: 'University of Paris',
-	// 	time: '1891 - 1895',
-	// 	degree: 'Master’s in Physics and Mathematics',
-	// 	location: 'Paris, France',
-	// 	description: 'Graduated at the top of her class in physics and second in mathematics.',
-	// },
+	{
+		school: 'Paris Sud University',
+		time: '2015-2016',
+		degree: 'MSc',
+		location: 'Paris, France',
+		description: 'M2 in Theoretical Physics of Complex Systems (Dual Master Degree Programme)',
+	},
+	{
+		school: 'Ferrara University',
+		time: '2014-2016',
+		degree: 'MSc',
+		location: 'Ferrara, Italy',
+		description: 'Master degree in Physics (Dual Master Degree Programme)',
+	},
+	{
+		school: 'Ferrara University',
+		time: '2011-2014',
+		degree: 'Bachelor',
+		location: 'Ferrara, Italy',
+		description: 'Bachelor degree in Physics',
+	}
+	
 ];
 
 export const skills = [
